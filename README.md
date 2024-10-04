@@ -20,6 +20,9 @@ All our code is in src directory. Inside there we have segregated our code in co
 
 In the project directory, you can run:
 
+### `npm install`
+To install all the dependencies from the package.json file
+
 ### `npm start`
 
 Runs the app in the development mode.\
